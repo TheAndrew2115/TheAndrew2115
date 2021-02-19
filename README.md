@@ -1,6 +1,6 @@
 ### Welcome
 
-My name is Andrew and here is a quick rundown of who I am:
+My name is Andrew and here is a quick rundown of myself:
 
 - Working as a Software Developer at Top Hat Monocle Inc. 
 - In my 2nd year of studies as a Software Engineering student at UWaterloo.
