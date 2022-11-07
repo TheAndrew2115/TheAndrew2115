@@ -1,9 +1,7 @@
-### Welcome
+### Hello!
 
 My name is Andrew and here is a quick rundown of myself:
 
-- Open to 4-month coop opportunities starting Summer 2022.
-- Starting an internship as a SWE intern at Tesla starting September 2021.
-- Entering my 3rd year of studies as a Software Engineering student @UWaterloo.
-- Strong full stack development background, though I am open to all kinds of work.
-- If you play Minecraft we can be friends. 
+- Currently in the latter half of my 3rd year of studies as a Software Engineering student at the University of Waterloo.
+- Previously interned as a Software Engineer at Top Hat (x2), Tesla, and Moveworks.
+- I'm looking for challenging and impactful problems to solve.
